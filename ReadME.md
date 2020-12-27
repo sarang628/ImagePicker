@@ -1,6 +1,6 @@
 # 이미지 피커 라이브러리
 
-<img src = "https://github.com/sarang628/ImagePicker/blob/master/screenshot/Screenshot_20201227_231149.png?raw=true" style="zoom: 25%;" >
+<img src = "https://github.com/sarang628/ImagePicker/blob/master/screenshot/Screenshot_20201227_231149.png?raw=true" width="25%;" >
 
 ## 샘플 코드
 
